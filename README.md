@@ -13,6 +13,27 @@ Sincroniza atividades e prazos do Canvas LMS com o Google Calendar.
 
 O projeto não acessa o Canvas por automação de navegador. Ele usa a API oficial e não envia mensagens para o WhatsApp.
 
+## Aviso de uso
+
+Este é um projeto independente e não é afiliado, patrocinado ou endossado
+pela PUC-Campinas, pela Instructure/Canvas ou pelo Google.
+
+O projeto usa as APIs oficiais do Canvas e do Google Calendar. Cada usuário é
+responsável por configurar suas próprias credenciais, autorizar o acesso e
+cumprir as políticas da instituição, do Canvas, do Google e as leis aplicáveis.
+
+Os dados acadêmicos obtidos são privados e devem ser usados somente para a
+finalidade autorizada pelo próprio usuário. Não inclua tokens, credenciais,
+dados de disciplinas, logs ou arquivos gerados no repositório.
+
+Não use o projeto para contornar autenticação, acessar dados de terceiros,
+sobrecarregar as APIs ou remover avisos e marcas proprietárias. Consulte a
+[política da API do Canvas](https://www.instructure.com/policies/canvas-api-policy)
+antes de distribuir ou modificar o uso do projeto.
+
+Use por sua própria conta e risco. Este aviso não constitui aconselhamento
+jurídico.
+
 ## Requisitos
 
 - Windows;
