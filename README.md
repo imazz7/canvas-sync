@@ -117,4 +117,6 @@ Estes arquivos são ignorados pelo Git e não devem ser publicados:
 
 ## Licença
 
-Este projeto é fornecido para fins educacionais e uso pessoal.
+Este projeto está disponível sob a [Apache License 2.0](LICENSE).
+
+Copyright 2026 Enrico Locateli Costa.
